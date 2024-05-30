@@ -10,4 +10,8 @@ apple
 =======
 this Is banana
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 hAKHSAjhshADSJHAHADSAFDASGFDHSGGSADHGadgagsdhgsadhasgdhagdhasgdhgadjagshgdsy
+=======
+nmnmnmnmn,nm,nm,nmnmnmnmnmnnnnnnmnmmnmmmmmmnmnm,nm,nm,n,n,n,n,n,m
+>>>>>>> Stashed changes
